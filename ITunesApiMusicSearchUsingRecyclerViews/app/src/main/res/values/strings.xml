@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ITunesApiMusicSearchUsingRecyclerViews</string>
+    <string name="searchBar" />
+    <string name="limitText">Limit : 10</string>
+    <string name="searchButton">Search</string>
+    <string name="resetButton">Reset</string>
+    <string name="searchKeywords">Keywords</string>
+    <string name="sortBy">Sort By :</string>
+    <string name="priceSort">Price</string>
+    <string name="dateSort">Date</string>
+    <string name="resultsText">Results</string>
+    <string name="toggleButton" />
+    <string name="trackText">Track :</string>
+    <string name="artistText">Artist :</string>
+    <string name="priceText">Price :</string>
+    <string name="dateText">Date :</string>
+    <string name="m2TrackText" translatable="false">Track :</string>
+    <string name="m2GenreText">Genre :</string>
+    <string name="m2ArtistText">Artist :</string>
+    <string name="m2AlbumText">Album :</string>
+    <string name="m2TrackPriceText">Track Price :</string>
+    <string name="m2AlbumPrice">Album Price :</string>
+    <string name="m2FinishButton">Finish</string>
+</resources>
